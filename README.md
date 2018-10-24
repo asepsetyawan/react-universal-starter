@@ -1,5 +1,7 @@
 # react-universal-starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/asepsetyawan/react-universal-starter.svg)](https://greenkeeper.io/)
+
 ## Features:
 
 - SSR (Server side rendering)
